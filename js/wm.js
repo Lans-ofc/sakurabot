@@ -1,6 +1,6 @@
 const chalk = require('chalk')
 const fs = require('fs')
-global.wm = `Sakura Md By Lent :v` //lenttobs
+global.wm = `Sakura Md By LansModz :v` //lenttobs
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
