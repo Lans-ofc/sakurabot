@@ -1,6 +1,6 @@
 const chalk = require('chalk')
 const fs = require('fs')
-global.wait = `🔎 Sakura sedang mencarikan Permintaan mu...`
+global.wait = `ಠ﹏ಠ Sebentar Ya sayang...`
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
