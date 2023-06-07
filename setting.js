@@ -4,17 +4,17 @@ const fs = require('fs')
 
 // edit thumb ada di file string/ppbot.js
 
-global.owner = ['6285791762177'] // pakai nomor owner
-global.ownernomer = "6285791762177" // pakai nomor owner
-global.socialmedia = "IG: vlntncptr" // ini ig buat di ownerjy
-global.yutub = "YT: lenttobs"// sama
-global.lokasi = "Indonesia, Jawatimur, Lumajang"//
+global.owner = ['6283132749084'] // pakai nomor owner
+global.ownernomer = "6283132749084" // pakai nomor owner
+global.socialmedia = "IG: lans.xys" // ini ig buat di ownerjy
+global.yutub = "YT: lansdev"// sama
+global.lokasi = "Indonesia, Banten, Tanggerang"//
 
 global.packgename = "by" 
-global.author = "lenttobs" 
+global.author = "LansModz" 
 
 global.title = 'SakuraMD'//Tittle reply 
-global.body = 'Subscribe lenttobs' //body reply
+global.body = 'Bot By Lansmodz' //body reply
 
 global.welcome = false 
 global.left = false
